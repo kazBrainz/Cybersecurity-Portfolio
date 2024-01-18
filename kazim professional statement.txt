@@ -1,0 +1,3 @@
+My name is kazim. I have passion for analyzing and protecting organizations systems and networks
+as well as their critical data from attacks. I love working with technological tools and programming language like Python
+to analyze and mitigate threats.
